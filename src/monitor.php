@@ -1,9 +1,5 @@
 <?php
-
-// Record the start time for execution time calculation
 $startTime = microtime(true);
-
-// monitor_super.php - 超级版 PHP 服务器监控脚本 (支持自定义 AI 抓取输入)
 
 // 包含配置文件
 require_once __DIR__ . '/config.php';
