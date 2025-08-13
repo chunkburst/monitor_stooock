@@ -167,3 +167,9 @@ MIT License
 ## 📞 联系我
 
 如有问题或建议，可以在TG上pm我 (@auto_ccb)
+
+请CCB喝杯咖啡！【支持：ETH链 / 币安链(BSC) / Poly链等】
+
+收款地址: `0x34ec2df7a44dfb252ed549a12b329eebfa016117`
+
+![usdt](https://crimson-rear-ladybug-723.mypinata.cloud/ipfs/bafkreid363e4wtolwxsxtvgrswlftk2cb532x5dgrevawixgqrghomoqve)
